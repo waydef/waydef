@@ -1,18 +1,13 @@
 # waydef
 
-sysadmin and developer focusing on linux environments, wayland desktop workflows, and offline browser utilities.
+almost fake sysadmin and developer.
 
-i am 14 years old. all code across this account is written with the help of artificial intelligence, but every architectural decision, concept, pipeline, and system integration is conceived, supervised, and controlled by me.
+14 y.o. all code across this account is written with the help of artificial intelligence, i'm just an architect.
 
-## selected projects
+## main projects
 
-- [slurp](https://github.com/waydef/slurp) - animated wayland region selector with rounded corners and window gap bridging.
-- [speech-to-text-whisper](https://github.com/waydef/speech-to-text-whisper) - offline in-browser speech transcription using transformers.js and onnx runtime.
+- [forked slurp](https://github.com/waydef/slurp) - animated wayland region selector with rounded corners and window gap bridging.
 - [universal-screen-mapper](https://github.com/waydef/universal-screen-mapper) - canvas utility to map physical display cracks, dead pixels, and matrix defects.
-- [photo-portfolio](https://github.com/waydef/photo-portfolio) - lightweight photo gallery with custom pinch-zoom lightbox and adaptive hsl palettes.
-- [setup](https://github.com/waydef/setup) - retro crt terminal dashboard displaying personal workstation hardware.
-- [parts-tg](https://github.com/waydef/parts-tg) - offline telegram export compressor and local analytics dashboard.
-- [ogurecs-hub](https://github.com/waydef/ogurecs-hub) - source code for my personal web portal at ogurecs.space.
 
 ## stack and environment
 
@@ -27,4 +22,4 @@ i am 14 years old. all code across this account is written with the help of arti
 
 ## кратко на русском
 
-мне 14 лет. системный администратор и разработчик. весь код на этом аккаунте написан с помощью искусственного интеллекта, но архитектура, логика, концепции и системный контроль полностью придуманы и проконтролированы мной. занимаюсь linux, кастомизацией wayland, легковесными локальными веб-инструментами без серверной привязки и фотографией. личный сайт: https://ogurecs.space
+мне 14. ларп системный администратор и ларп разработчик. весь код на этом аккаунте написан с помощью искусственного интеллекта, я архитектор. занимаюсь linux, кастомизацией wayland, локальными веб-инструментами без серверной привязки и фотографией. личный сайт: https://ogurecs.space
