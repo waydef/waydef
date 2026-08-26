@@ -2,6 +2,8 @@
 
 sysadmin and developer focusing on linux environments, wayland desktop workflows, and offline browser utilities.
 
+i am 14 years old. all code across this account is written with the help of artificial intelligence, but every architectural decision, concept, pipeline, and system integration is conceived, supervised, and controlled by me.
+
 ## selected projects
 
 - [slurp](https://github.com/waydef/slurp) - animated wayland region selector with rounded corners and window gap bridging.
@@ -25,4 +27,4 @@ sysadmin and developer focusing on linux environments, wayland desktop workflows
 
 ## кратко на русском
 
-системный администратор и разработчик. занимаюсь linux, кастомизацией wayland, легковесными локальными веб-инструментами без серверной привязки и фотографией. личный сайт: https://ogurecs.space
+мне 14 лет. системный администратор и разработчик. весь код на этом аккаунте написан с помощью искусственного интеллекта, но архитектура, логика, концепции и системный контроль полностью придуманы и проконтролированы мной. занимаюсь linux, кастомизацией wayland, легковесными локальными веб-инструментами без серверной привязки и фотографией. личный сайт: https://ogurecs.space
