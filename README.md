@@ -2,7 +2,7 @@
 
 almost fake sysadmin and developer.
 
-15 y.o. all code across this account is written with the help of artificial intelligence, i'm just an architect.
+15 y.o. all code across this account is written with the help of artificial intelligence, i'm just ~~an architect~~ a vibe coder since april 2023.
 
 ## main projects
 
@@ -22,4 +22,4 @@ almost fake sysadmin and developer.
 
 ## кратко на русском
 
-мне 15. алмост ларп системный администратор и разработчик. код на этом аккаунте написан с помощью искусственного интеллекта, я архитектор. занимаюсь linux, кастомизацией wayland, локальными веб-инструментами без серверной привязки и фотографией. личный сайт: https://ogurecs.com
+мне 15. алмост ларп системный администратор и разработчик. код на этом аккаунте написан с помощью искусственного интеллекта, я ~~архитектор~~ вайбкодер с апреля 2023 года. занимаюсь linux, кастомизацией wayland, локальными веб-инструментами без серверной привязки и фотографией. личный сайт: https://ogurecs.com
