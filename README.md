@@ -26,7 +26,7 @@ the almost fake part, for the record:
 - workstation: arch linux, hyprland, zsh, wayland
 - public code: c, kotlin, vanilla javascript, html5 canvas
 - private scripts and services: python, bash, typescript
-- systems: linux administration, self-hosting, nginx, wireguard
+- systems: linux administration, self-hosting, nginx, xray and sing-box
 
 ## links
 
